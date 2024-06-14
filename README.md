@@ -9,7 +9,7 @@ If you want to comment on a document that the WG produces, please use the issues
 ## Links
 - [Project radar](https://w3c.github.io/i18n-activity/projects/)
 - [Request a review page](https://www.w3.org/International/review-request)
-- [Review radar](https://github.com/w3c/i18n-request/projects/1)
+- [Review radar](https://github.com/orgs/w3c/projects/91/views/1)
 - [Review comment tracker](https://w3c.github.io/i18n-activity/reviews/)
 - [I18n document issues](https://w3c.github.io/i18n-activity/repostatus/)
 - [Article pipeline](https://github.com/w3c/i18n-drafts/projects/1)
