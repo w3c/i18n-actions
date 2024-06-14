@@ -12,7 +12,7 @@ If you want to comment on a document that the WG produces, please use the issues
 - [Review radar](https://github.com/orgs/w3c/projects/91/views/1)
 - [Review comment tracker](https://w3c.github.io/i18n-activity/reviews/)
 - [I18n document issues](https://w3c.github.io/i18n-activity/repostatus/)
-- [Article pipeline](https://github.com/w3c/i18n-drafts/projects/1)
+- [Article pipeline](https://github.com/orgs/w3c/projects/92/views/1)
 - [WG home page](https://w3c.github.io/i18n-activity/i18n-wg/)
 - [Action tracker](https://www.w3.org/International/track/actions/open)
 - [Practical tips for task forces](https://w3c.github.io/i18n-activity/guidelines/process.html)
