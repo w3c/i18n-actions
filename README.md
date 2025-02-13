@@ -14,5 +14,4 @@ If you want to comment on a document that the WG produces, please use the issues
 - [I18n document issues](https://w3c.github.io/i18n-activity/repostatus/)
 - [Article pipeline](https://github.com/orgs/w3c/projects/92/views/1)
 - [WG home page](https://w3c.github.io/i18n-activity/i18n-wg/)
-- [Action tracker](https://www.w3.org/International/track/actions/open)
 - [Practical tips for task forces](https://w3c.github.io/i18n-activity/guidelines/process.html)
